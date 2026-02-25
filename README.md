@@ -377,3 +377,6 @@ This system closely resembles real-world applications such as:
 > “Through this project, I implemented a complete real-time embedded monitoring system integrating sensing, timestamp synchronization, structured logging, configurable runtime control, and fault handling. It strengthened my expertise in ARM7 peripheral programming, embedded system architecture, and industrial-grade firmware design.”
 
 ---
+
+## 👨‍💻 Author
+**Gunda Harshitha** 
