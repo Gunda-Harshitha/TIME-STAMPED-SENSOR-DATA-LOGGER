@@ -1,4 +1,4 @@
-# 📌 **TIME-STAMPED SENSOR DATA LOGGER**
+# 📅 ⏰ **TIME-STAMPED SENSOR DATA LOGGER**
 
 ### *(Real-Time Embedded Monitoring System using ARM7 Architecture)*
 
