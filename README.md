@@ -1,4 +1,4 @@
-# 📅 ⏰ **TIME-STAMPED SENSOR DATA LOGGER**
+# 🕒 **TIME-STAMPED SENSOR DATA LOGGER**
 
 ### *(Real-Time Embedded Monitoring System using ARM7 Architecture)*
 
@@ -66,7 +66,7 @@ The primary objective of this system is to develop a **robust and configurable r
 
 ---
 
-## 📍 A) Analog-to-Digital Conversion (Temperature Acquisition)
+## 🌡️🔄 A) Analog-to-Digital Conversion (Temperature Acquisition)
 
 The LM35 sensor produces a linear output of:
 
@@ -98,7 +98,7 @@ The LM35 sensor produces a linear output of:
 
 ---
 
-## 📍 B) Real-Time Clock (RTC) Integration
+## 🕒 B) Real-Time Clock (RTC) Integration
 
 The on-chip RTC of LPC2148 was configured to maintain:
 
@@ -142,7 +142,7 @@ This ensures:
 
 ---
 
-## 📍 C) UART Communication (Data Logging)
+## 📡 C) UART Communication (Data Logging)
 
 UART0 configured with:
 
@@ -180,7 +180,7 @@ Data transmitted to PC via MAX232 interface.
 
 ---
 
-## 📍 D) Threshold-Based Fault Detection Mechanism
+## 🚨 D) Threshold-Based Fault Detection Mechanism
 
 A configurable temperature setpoint (default: 45°C) is implemented.
 
@@ -224,7 +224,7 @@ One of the most technically impressive aspects of this project is the structured
 
 ---
 
-## 🔹 Mode Switching Mechanism
+## 🔀 🔹 Mode Switching Mechanism
 
 • Push button connected to GPIO
 
@@ -238,7 +238,7 @@ One of the most technically impressive aspects of this project is the structured
 
 ---
 
-## 🔹 Editable Parameters
+## ⚙️ 🔹 Editable Parameters
 
 ✔ Hour
 
