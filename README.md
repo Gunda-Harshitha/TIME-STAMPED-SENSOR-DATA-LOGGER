@@ -258,7 +258,7 @@ One of the most technically impressive aspects of this project is the structured
 
 ---
 
-## 🔹 UI Implementation Approache
+## 🔹 UI Implementation Approach
 
 ### 🔸 Method – Menu-Based Editing
 
@@ -358,7 +358,7 @@ This system closely resembles real-world applications such as:
 
 ✅ ADC & RTC Configuration
 
-✅ Serial Communication Protocols
+✅ Serial Communication Protocol
 
 ✅ Embedded UI Development
 
